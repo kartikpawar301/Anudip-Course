@@ -1,0 +1,13 @@
+2) What is the Full Form of JVM. Explain its architecture briefly.
+--> 
+JVM (Java Virtual Machine) is an abstract machine.
+It is a specification that provides runtime environment in which java bytecode can be executed.
+JVMs are available for many hardware and software platforms.
+A JVM is responsible for loading a file that has been written and compiled into a .class file.
+
+First, Java code is compiled into bytecode. This bytecode gets interpreted on different machines
+Between host system and Java source, Bytecode is an intermediary language.
+JVM in Java is responsible for allocating memory space.
+JVM architecture in Java contains classloader, method area, heap, JVM language stacks, 
+PC registers, native method stacks, execution engine, native methods interface, native methods
+libraries.

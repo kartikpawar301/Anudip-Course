@@ -1,0 +1,14 @@
+1) Compilable class:-
+Compilable class is custom class which compiled without an error is called compilable class.
+If you are referring to a "Compilable" class, it might be a hypothetical class or a custom class that you or someone else has created for
+a specific purpose. 
+The term "Compilable" could imply that instances of this class can be compiled into executable code or processed in some way related to 
+compilation, but this is depend entirely on the specific implementation and usage of the class.
+
+
+2) Executable class:-
+Executable class is a class which executes code or gives user readable output. 
+In Java, an "Executable" class typically refers to a class that contains a public static void main(String[] args) method. 
+This method serves as the entry point for a Java application, and it is the starting point for execution. 
+When you run a Java program, you specify the class that contains the main method as the starting point, and Java executes the code 
+within that method.

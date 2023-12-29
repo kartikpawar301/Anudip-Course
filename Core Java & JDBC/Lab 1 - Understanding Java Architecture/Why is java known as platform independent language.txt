@@ -1,0 +1,4 @@
+3) Why is java known as platform independent language?
+-->
+Java is called Platform Independent because programs written in Java can be run on multiple 
+platforms without rewriting them individually for a particular platform.

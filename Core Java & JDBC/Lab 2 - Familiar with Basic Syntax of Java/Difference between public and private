@@ -1,0 +1,5 @@
+a) public: 
+It has highest visibility. This type of method can be called from everywhere. Even from another package.
+ 
+b)private: 
+It is giving least visibility. This type of method will be seen only inside the same class.

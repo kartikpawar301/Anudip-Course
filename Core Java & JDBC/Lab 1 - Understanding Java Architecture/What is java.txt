@@ -1,0 +1,10 @@
+1) What is java?
+--> Java is a popular programming language and it is platform independent also compiler and interpreter language.
+It is developed by "James Gosling" and created in 1995.
+It is owned by Oracle.
+It is used for:-
+Mobile applications.
+Desktop applications.
+Web applications.
+Web servers and application servers.
+Games.

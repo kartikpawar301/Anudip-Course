@@ -1,0 +1,11 @@
+4) Write a program to print "Hello World". What commands will you give to run it on command prompt.
+-->public class HelloWorld {
+
+   public static void main(String[] args) {
+      
+      System.out.println("Hello, World");
+   }
+}
+
+javac HelloWorld.java
+java HelloWorld

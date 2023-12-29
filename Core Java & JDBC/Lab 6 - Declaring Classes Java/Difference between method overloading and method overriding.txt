@@ -1,0 +1,16 @@
+1) Method Overloading:-
+Method overloading refers to the ability to define multiple methods in the same class with the same name but with different parameters
+Overloaded methods can be defined in the same class. 
+It is also known as compile polymorphism or static polymorphism.
+Overloaded methods may or may not have the same return type.
+The access modifier may or may not be different for overloaded methods in the same class.
+	
+
+2) Method Overriding:-
+Method overriding occurs when a subclass provides a specific implementation of a method that is already defined in its superclass. 
+It is also known as runtime polymorphism or dynamic polymorphism.
+It involves a superclass and a subclass relationship.
+Overriding methods must have the same return type as the overridden method in the superclass.
+Overriding methods cannot have a more restrictive access modifier.
+However, it can have a less restrictive or the same access modifier.
+	

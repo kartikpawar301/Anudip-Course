@@ -1,0 +1,13 @@
+1) Constructor :-
+A constructor is a special method in a class that is called automatically when an object of that class is created.
+It is used to initialize the object.
+Constructors don't have a return type and their name is same as class name.
+Class can have more than one constructor. 
+This is known as Constructor Overloading, meaning many constructor in one class with same name and different parameters.
+
+2) Methods :-
+Methods are a block of code which will execute only if it is called.
+Methods are used to define the behavior or functionality of objects. 
+Method can perform tasks or modify the object state.
+Methods can have a return value based on their defined return type. 
+Methods can be called multiple times on the same object to perform various operations.
